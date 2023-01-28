@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName  "Restricted access "
+AuthUserFile  "/web/.htpasswd "
+Require staff:$apr1$bq3mezra$IowufKiX4yzD9RU4OIUBl.
